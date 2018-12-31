@@ -127,7 +127,7 @@ while True:
 # Ends inquiry.
 		elif 'No' in Unit_Info or 'no' in Unit_Info or \
 		'N' in Unit_Info or 'n' in Unit_Info:
-
+			print('Thank you')
 		
 # Prints phrase when invalid.
 	else:
